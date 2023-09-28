@@ -1,0 +1,2002 @@
+Se listan los problemas del tipo Opuestos :
+
+A = - 13x - 11
+A = - 12x + 2
+x = -13, valor = 158 
+
+A = 3x + 37
+A = 4x + 21
+x = 16, valor = 85 
+
+A = - 5x - 39
+A = - x + 37
+x = -19, valor = 56 
+
+A = 14x - 48
+A = 11x - 15
+x = 11, valor = 106 
+
+A = - x + 11
+A = - 5x - 17
+x = -7, valor = 18 
+
+A = 3x + 26
+A = 6x - 28
+x = 18, valor = 80 
+
+A = - 7x - 34
+A = - 6x - 16
+x = -18, valor = 92 
+
+A = 5x - 3
+A = 6x - 23
+x = 20, valor = 97 
+
+A = - 26x - 9
+A = - 24x - 7
+x = -1, valor = 17 
+
+A = - 2x - 14
+A = - x + 3
+x = -17, valor = 20 
+
+A = - x + 36
+A = 3x - 16
+x = 13, valor = 23 
+
+A = 10x
+A = 13x - 39
+x = 13, valor = 130 
+
+A = 6x - 25
+A = 7x - 40
+x = 15, valor = 65 
+
+A = 11x + 45
+A = 17x - 27
+x = 12, valor = 177 
+
+A = - 23x - 33
+A = - 8x + 27
+x = -4, valor = 59 
+
+A = - 11x - 44
+A = - 8x + 7
+x = -17, valor = 143 
+
+A = - 30x - 10
+A = - 33x - 25
+x = -5, valor = 140 
+
+A = - 44x + 24
+A = - 40x + 36
+x = -3, valor = 156 
+
+A = 5x - 12
+A = 3x + 18
+x = 15, valor = 63 
+
+A = 14x + 18
+A = 12x + 38
+x = 10, valor = 158 
+
+A = - x + 42
+A = - 7x + 12
+x = -5, valor = 47 
+
+A = - 13x + 22
+A = - 10x + 49
+x = -9, valor = 139 
+
+A = 17x - 28
+A = 14x + 5
+x = 11, valor = 159 
+
+A = 18x - 27
+A = 10x + 29
+x = 7, valor = 99 
+
+A = 18x + 30
+A = 31x - 48
+x = 6, valor = 138 
+
+A = - 18x - 25
+A = - 12x - 13
+x = -2, valor = 11 
+
+A = - 7x + 10
+A = - 5x + 32
+x = -11, valor = 87 
+
+A = - 40x - 44
+A = - 34x - 14
+x = -5, valor = 156 
+
+A = 14x + 7
+A = 12x + 27
+x = 10, valor = 147 
+
+A = - 6x + 46
+A = - 10x - 34
+x = -20, valor = 166 
+
+A = - 10x - 8
+A = 7x + 43
+x = -3, valor = 22 
+
+A = 14x - 32
+A = 13x - 22
+x = 10, valor = 108 
+
+A = 11x - 25
+A = 4x + 24
+x = 7, valor = 52 
+
+A = - 4x - 11
+A = - 7x - 50
+x = -13, valor = 41 
+
+A = 14x - 1
+A = 8x + 47
+x = 8, valor = 111 
+
+A = - 8x + 10
+A = - 11x - 38
+x = -16, valor = 138 
+
+A = 8x + 25
+A = 10x - 5
+x = 15, valor = 145 
+
+A = 21x - 19
+A = 12x + 17
+x = 4, valor = 65 
+
+A = 2x - 28
+A = 3x - 48
+x = 20, valor = 12 
+
+A = - 10x - 37
+A = - 6x + 31
+x = -17, valor = 133 
+
+A = 7x + 9
+A = 9x - 23
+x = 16, valor = 121 
+
+A = 7x + 34
+A = 8x + 24
+x = 10, valor = 104 
+
+A = - 13x + 32
+A = - 21x - 40
+x = -9, valor = 149 
+
+A = - 14x + 13
+A = - 12x + 21
+x = -4, valor = 69 
+
+A = 11x - 43
+A = 5x + 5
+x = 8, valor = 45 
+
+A = 2x - 24
+A = 3x - 43
+x = 19, valor = 14 
+
+A = - 12x - 14
+A = - 11x - 1
+x = -13, valor = 142 
+
+A = - 7x + 44
+A = - 10x - 7
+x = -17, valor = 163 
+
+A = - 46x + 26
+A = - 43x + 32
+x = -2, valor = 118 
+
+A = 8x + 11
+A = 31x - 35
+x = 2, valor = 27 
+
+A = 7x - 43
+A = - x + 45
+x = 11, valor = 34 
+
+A = 15x + 4
+A = 35x - 36
+x = 2, valor = 34 
+
+A = - 28x - 15
+A = - 27x - 9
+x = -6, valor = 153 
+
+A = - 17x - 27
+A = - 18x - 35
+x = -8, valor = 109 
+
+A = 49x + 32
+A = 43x + 50
+x = 3, valor = 179 
+
+A = - 9x + 50
+A = - 10x + 43
+x = -7, valor = 113 
+
+A = 6x + 13
+A = 9x - 35
+x = 16, valor = 109 
+
+A = 12x - 26
+A = 8x + 30
+x = 14, valor = 142 
+
+A = - 18x - 13
+A = - 13x + 32
+x = -9, valor = 149 
+
+A = 7x - 35
+A = - 2x + 37
+x = 8, valor = 21 
+
+A = - 5x + 35
+A = - 11x - 19
+x = -9, valor = 80 
+
+A = - 2x + 30
+A = - 3x + 10
+x = -20, valor = 70 
+
+A = 14x - 42
+A = 5x + 48
+x = 10, valor = 98 
+
+A = 11x + 17
+A = 36x - 8
+x = 1, valor = 28 
+
+A = 7x + 3
+A = 8x - 13
+x = 16, valor = 115 
+
+A = 9x + 22
+A = 11x - 10
+x = 16, valor = 166 
+
+A = 24x - 17
+A = 19x + 23
+x = 8, valor = 175 
+
+A = 10x
+A = 9x + 11
+x = 11, valor = 110 
+
+A = - 3x - 15
+A = - x + 19
+x = -17, valor = 36 
+
+A = 4x + 21
+A = 8x - 19
+x = 10, valor = 61 
+
+A = - x + 28
+A = - 2x + 12
+x = -16, valor = 44 
+
+A = - 2x + 36
+A = - x + 46
+x = -10, valor = 56 
+
+A = - 11x + 24
+A = - 13x + 2
+x = -11, valor = 145 
+
+A = - 3x + 11
+A = - 2x + 31
+x = -20, valor = 71 
+
+A = - 8x + 45
+A = 9x + 28
+x = 1, valor = 37 
+
+A = x + 42
+A = - 4x - 48
+x = -18, valor = 24 
+
+A = 4x + 15
+A = - 14x + 33
+x = 1, valor = 19 
+
+A = 4x + 47
+A = 6x + 27
+x = 10, valor = 87 
+
+A = 3x + 35
+A = - 6x - 28
+x = -7, valor = 14 
+
+A = 41x - 3
+A = 49x - 19
+x = 2, valor = 79 
+
+A = - 8x - 37
+A = - 4x + 31
+x = -17, valor = 99 
+
+A = 39x + 11
+A = 50x - 33
+x = 4, valor = 167 
+
+A = 12x - 15
+A = 10x + 7
+x = 11, valor = 117 
+
+A = 7x - 41
+A = 4x - 5
+x = 12, valor = 43 
+
+A = - 6x + 35
+A = - 11x - 30
+x = -13, valor = 113 
+
+A = 7x - 30
+A = 6x - 12
+x = 18, valor = 96 
+
+A = 43x + 43
+A = 47x + 39
+x = 1, valor = 86 
+
+A = - 23x + 47
+A = - 47x - 1
+x = -2, valor = 93 
+
+A = 11x - 11
+A = 9x + 23
+x = 17, valor = 176 
+
+A = 21x - 9
+A = 24x - 33
+x = 8, valor = 159 
+
+A = - 9x - 40
+A = - 7x
+x = -20, valor = 140 
+
+A = 4x - 44
+A = 2x - 10
+x = 17, valor = 24 
+
+A = - 4x + 34
+A = - 3x + 50
+x = -16, valor = 98 
+
+A = 35x - 23
+A = 27x - 15
+x = 1, valor = 12 
+
+A = 15x + 19
+A = 40x - 31
+x = 2, valor = 49 
+
+A = 12x + 24
+A = 18x - 30
+x = 9, valor = 132 
+
+A = - 23x - 13
+A = - 24x - 20
+x = -7, valor = 148 
+
+A = 34x - 9
+A = 15x + 29
+x = 2, valor = 59 
+
+A = 47x + 9
+A = 36x + 31
+x = 2, valor = 103 
+
+A = - 31x - 18
+A = - 32x - 24
+x = -6, valor = 168 
+
+A = 16x - 11
+A = 34x - 47
+x = 2, valor = 21 
+
+A = - 21x - 39
+A = - 17x - 23
+x = -4, valor = 45 
+
+A = 7x + 36
+A = 10x - 18
+x = 18, valor = 162 
+
+A = - 50x - 31
+A = - 25x + 44
+x = -3, valor = 119 
+
+A = - 7x + 45
+A = - 9x + 13
+x = -16, valor = 157 
+
+A = - 30x + 8
+A = - 24x + 14
+x = -1, valor = 38 
+
+A = 3x + 2
+A = 5x - 34
+x = 18, valor = 56 
+
+A = - 23x - 13
+A = - 24x - 21
+x = -8, valor = 171 
+
+A = - 7x - 23
+A = - 5x + 3
+x = -13, valor = 68 
+
+A = - 7x - 15
+A = - 5x + 21
+x = -18, valor = 111 
+
+A = x + 3
+A = 4x - 30
+x = 11, valor = 14 
+
+A = x + 18
+A = - x + 34
+x = 8, valor = 26 
+
+A = - 2x + 45
+A = - 8x - 39
+x = -14, valor = 73 
+
+A = 3x - 2
+A = 6x - 32
+x = 10, valor = 28 
+
+A = - 14x + 44
+A = - 21x + 23
+x = -3, valor = 86 
+
+A = 32x - 37
+A = 17x - 7
+x = 2, valor = 27 
+
+A = 10x + 26
+A = 8x + 42
+x = 8, valor = 106 
+
+A = - 3x - 22
+A = 2x + 43
+x = -13, valor = 17 
+
+A = - 42x + 39
+A = - 34x + 47
+x = -1, valor = 81 
+
+A = 32x + 49
+A = 44x + 25
+x = 2, valor = 113 
+
+A = - 22x - 45
+A = - 14x + 35
+x = -10, valor = 175 
+
+A = - 12x + 33
+A = - 21x - 30
+x = -7, valor = 117 
+
+A = - 3x - 11
+A = - 4x - 28
+x = -17, valor = 40 
+
+A = 13x - 38
+A = 8x + 37
+x = 15, valor = 157 
+
+A = - 13x + 11
+A = - 10x + 41
+x = -10, valor = 141 
+
+A = x + 24
+A = 3x - 14
+x = 19, valor = 43 
+
+A = 6x - 28
+A = - 3x + 44
+x = 8, valor = 20 
+
+A = - 7x + 23
+A = - 5x + 43
+x = -10, valor = 93 
+
+A = - 10x + 33
+A = - 14x - 15
+x = -12, valor = 153 
+
+A = - 20x - 25
+A = - 19x - 21
+x = -4, valor = 55 
+
+A = 19x + 23
+A = 24x + 8
+x = 3, valor = 80 
+
+A = 8x + 13
+A = 15x - 15
+x = 4, valor = 45 
+
+A = 44x + 37
+A = 45x + 34
+x = 3, valor = 169 
+
+A = - 4x + 15
+A = - 3x + 22
+x = -7, valor = 43 
+
+A = - 8x - 19
+A = - 6x + 13
+x = -16, valor = 109 
+
+A = 7x - 11
+A = 5x + 29
+x = 20, valor = 129 
+
+A = 20x - 49
+A = 14x + 17
+x = 11, valor = 171 
+
+A = - 36x - 46
+A = - 20x + 34
+x = -5, valor = 134 
+
+A = 7x - 5
+A = 10x - 41
+x = 12, valor = 79 
+
+A = 6x - 24
+A = 4x + 14
+x = 19, valor = 90 
+
+A = 5x - 22
+A = - x + 50
+x = 12, valor = 38 
+
+A = - 9x - 50
+A = - 3x + 40
+x = -15, valor = 85 
+
+A = 8x - 12
+A = 9x - 32
+x = 20, valor = 148 
+
+A = 14x - 8
+A = 13x + 2
+x = 10, valor = 132 
+
+A = - 5x + 40
+A = - 7x + 14
+x = -13, valor = 105 
+
+A = 11x - 26
+A = 9x - 14
+x = 6, valor = 40 
+
+A = 9x + 14
+A = 8x + 24
+x = 10, valor = 104 
+
+A = - 12x + 34
+A = - 16x - 10
+x = -11, valor = 166 
+
+A = 29x + 9
+A = 34x - 16
+x = 5, valor = 154 
+
+A = 12x - 28
+A = 10x + 2
+x = 15, valor = 152 
+
+A = - 11x - 42
+A = - 8x + 18
+x = -20, valor = 178 
+
+A = - 5x + 20
+A = - 4x + 38
+x = -18, valor = 110 
+
+A = 11x - 33
+A = 7x + 27
+x = 15, valor = 132 
+
+A = 3x + 50
+A = - 5x - 38
+x = -11, valor = 17 
+
+A = - 10x + 49
+A = - 18x - 23
+x = -9, valor = 139 
+
+A = - 5x - 47
+A = - 4x - 29
+x = -18, valor = 43 
+
+A = 27x - 12
+A = 26x - 7
+x = 5, valor = 123 
+
+A = - 4x + 39
+A = - 6x + 3
+x = -18, valor = 111 
+
+A = 12x + 40
+A = 13x + 32
+x = 8, valor = 136 
+
+A = - 16x - 22
+A = - 17x - 31
+x = -9, valor = 122 
+
+A = - 9x - 7
+A = - 11x - 35
+x = -14, valor = 119 
+
+A = 2x + 7
+A = x + 27
+x = 20, valor = 47 
+
+A = 21x + 42
+A = 20x + 41
+x = -1, valor = 21 
+
+A = 7x + 45
+A = 9x + 15
+x = 15, valor = 150 
+
+A = 13x + 22
+A = 20x - 48
+x = 10, valor = 152 
+
+A = 10x - 13
+A = 6x + 23
+x = 9, valor = 77 
+
+A = 3x + 29
+A = 2x + 23
+x = -6, valor = 11 
+
+A = - 4x + 13
+A = - 7x - 41
+x = -18, valor = 85 
+
+A = 19x
+A = 16x + 21
+x = 7, valor = 133 
+
+A = 2x + 29
+A = 11x + 2
+x = 3, valor = 35 
+
+A = - 7x - 22
+A = - 8x - 42
+x = -20, valor = 118 
+
+A = - 6x - 16
+A = - 8x - 40
+x = -12, valor = 56 
+
+A = 42x + 20
+A = 41x + 23
+x = 3, valor = 146 
+
+A = - 14x - 24
+A = - 10x + 16
+x = -10, valor = 116 
+
+A = - 5x + 20
+A = - 16x - 46
+x = -6, valor = 50 
+
+A = - 47x + 18
+A = - 38x + 45
+x = -3, valor = 159 
+
+A = - 7x + 25
+A = - 10x - 17
+x = -14, valor = 123 
+
+A = 17x - 13
+A = 13x + 23
+x = 9, valor = 140 
+
+A = 12x - 49
+A = 11x - 31
+x = 18, valor = 167 
+
+A = 24x - 35
+A = - 16x + 45
+x = 2, valor = 13 
+
+A = 5x + 46
+A = 12x - 24
+x = 10, valor = 96 
+
+A = - 5x - 21
+A = - x + 35
+x = -14, valor = 49 
+
+A = - 6x - 23
+A = - 8x - 37
+x = -7, valor = 19 
+
+A = 10x - 23
+A = 9x - 4
+x = 19, valor = 167 
+
+A = 9x - 35
+A = - 3x + 49
+x = 7, valor = 28 
+
+A = 46x + 49
+A = 50x + 41
+x = 2, valor = 141 
+
+A = 3x - 10
+A = 4x - 21
+x = 11, valor = 23 
+
+A = 31x - 5
+A = 15x + 27
+x = 2, valor = 57 
+
+A = - 3x - 22
+A = - 2x - 2
+x = -20, valor = 38 
+
+A = 36x + 19
+A = 41x + 4
+x = 3, valor = 127 
+
+A = - 12x + 41
+A = - 18x - 13
+x = -9, valor = 149 
+
+A = 6x + 7
+A = 5x + 20
+x = 13, valor = 85 
+
+A = 21x - 19
+A = 22x - 25
+x = 6, valor = 107 
+
+A = 18x + 17
+A = 24x - 25
+x = 7, valor = 143 
+
+A = - 12x + 15
+A = - 9x + 45
+x = -10, valor = 135 
+
+A = - 16x - 7
+A = - 23x - 42
+x = -5, valor = 73 
+
+A = 6x - 23
+A = - 3x + 49
+x = 8, valor = 25 
+
+A = - 47x + 15
+A = - 48x + 12
+x = -3, valor = 156 
+
+A = 11x + 47
+A = 8x + 50
+x = 1, valor = 58 
+
+A = - 19x + 37
+A = 13x + 5
+x = 1, valor = 18 
+
+A = - 48x + 31
+A = - 50x + 25
+x = -3, valor = 175 
+
+A = - 9x - 50
+A = - 4x + 30
+x = -16, valor = 94 
+
+A = 12x - 25
+A = 8x + 7
+x = 8, valor = 71 
+
+A = - 11x - 33
+A = - 9x + 5
+x = -19, valor = 176 
+
+A = 19x - 8
+A = 25x - 32
+x = 4, valor = 68 
+
+A = - 13x - 13
+A = - 15x - 41
+x = -14, valor = 169 
+
+A = - 9x - 45
+A = - 8x - 33
+x = -12, valor = 63 
+
+A = 22x - 35
+A = 15x + 28
+x = 9, valor = 163 
+
+A = - 26x - 24
+A = - 14x + 24
+x = -4, valor = 80 
+
+A = - 2x + 12
+A = - 5x - 30
+x = -14, valor = 40 
+
+A = - 12x + 25
+A = - 3x + 34
+x = -1, valor = 37 
+
+A = 16x + 38
+A = 27x + 27
+x = 1, valor = 54 
+
+A = - 10x + 45
+A = - 18x - 43
+x = -11, valor = 155 
+
+A = - 7x - 32
+A = - 4x + 22
+x = -18, valor = 94 
+
+A = - 17x - 8
+A = - 15x + 8
+x = -8, valor = 128 
+
+A = 10x - 10
+A = 7x + 35
+x = 15, valor = 140 
+
+A = 9x + 21
+A = 13x - 39
+x = 15, valor = 156 
+
+A = 2x + 49
+A = - 2x - 15
+x = -16, valor = 17 
+
+A = - 7x - 2
+A = - 5x + 38
+x = -20, valor = 138 
+
+A = - 5x - 31
+A = - x + 37
+x = -17, valor = 54 
+
+A = - 10x + 5
+A = - 16x - 49
+x = -9, valor = 95 
+
+A = 17x + 10
+A = 15x + 30
+x = 10, valor = 180 
+
+A = - 2x - 15
+A = x + 42
+x = -19, valor = 23 
+
+A = 9x - 26
+A = 4x + 34
+x = 12, valor = 82 
+
+A = - 14x + 24
+A = - 47x - 9
+x = -1, valor = 38 
+
+A = 15x - 43
+A = 11x + 13
+x = 14, valor = 167 
+
+A = - 7x + 5
+A = - 8x - 15
+x = -20, valor = 145 
+
+A = 11x + 45
+A = - 33x - 43
+x = -2, valor = 23 
+
+A = 35x + 23
+A = 39x + 15
+x = 2, valor = 93 
+
+A = - 6x + 2
+A = - 11x - 33
+x = -7, valor = 44 
+
+A = - 10x - 5
+A = - 4x + 37
+x = -7, valor = 65 
+
+A = 3x - 40
+A = 2x - 22
+x = 18, valor = 14 
+
+A = - 2x + 14
+A = - 6x - 46
+x = -15, valor = 44 
+
+A = 17x + 6
+A = 15x + 26
+x = 10, valor = 176 
+
+A = 7x + 34
+A = 14x - 8
+x = 6, valor = 76 
+
+A = 24x - 31
+A = 23x - 25
+x = 6, valor = 113 
+
+A = - 42x - 46
+A = - 13x + 41
+x = -3, valor = 80 
+
+A = 15x + 41
+A = 18x + 29
+x = 4, valor = 101 
+
+A = - 12x - 30
+A = - 9x + 12
+x = -14, valor = 138 
+
+A = - 15x + 15
+A = - 26x - 18
+x = -3, valor = 60 
+
+A = 8x - 47
+A = 6x - 7
+x = 20, valor = 113 
+
+A = 8x - 11
+A = 9x - 30
+x = 19, valor = 141 
+
+A = - 9x - 3
+A = - 4x + 27
+x = -6, valor = 51 
+
+A = 36x - 45
+A = 23x + 33
+x = 6, valor = 171 
+
+A = 10x
+A = 11x - 12
+x = 12, valor = 120 
+
+A = - 2x + 14
+A = - x + 29
+x = -15, valor = 44 
+
+A = 10x + 17
+A = 14x - 23
+x = 10, valor = 117 
+
+A = - x + 45
+A = - 5x - 11
+x = -14, valor = 59 
+
+A = 47x - 18
+A = - 12x + 41
+x = 1, valor = 29 
+
+A = 14x + 36
+A = 27x - 29
+x = 5, valor = 106 
+
+A = - 4x + 6
+A = - 5x
+x = -6, valor = 30 
+
+A = - 15x + 31
+A = - 17x + 13
+x = -9, valor = 166 
+
+A = 34x + 25
+A = 46x + 13
+x = 1, valor = 59 
+
+A = - x + 30
+A = 2x - 24
+x = 18, valor = 12 
+
+A = - 27x + 5
+A = - 20x + 40
+x = -5, valor = 140 
+
+A = 13x + 17
+A = 14x + 10
+x = 7, valor = 108 
+
+A = - 6x - 13
+A = - 5x + 3
+x = -16, valor = 83 
+
+A = - 4x + 23
+A = 14x - 13
+x = 2, valor = 15 
+
+A = - 11x + 40
+A = - 13x + 22
+x = -9, valor = 139 
+
+A = 10x + 39
+A = 19x - 24
+x = 7, valor = 109 
+
+A = - 41x - 36
+A = - 29x + 24
+x = -5, valor = 169 
+
+A = 2x + 22
+A = 37x - 13
+x = 1, valor = 24 
+
+A = - 8x - 11
+A = - 9x - 25
+x = -14, valor = 101 
+
+A = 6x - 45
+A = 4x - 5
+x = 20, valor = 75 
+
+A = 30x + 45
+A = 28x + 47
+x = 1, valor = 75 
+
+A = 21x - 28
+A = 10x + 27
+x = 5, valor = 77 
+
+A = - 4x + 35
+A = - 7x - 13
+x = -16, valor = 99 
+
+A = 7x - 45
+A = 3x + 23
+x = 17, valor = 74 
+
+A = 25x + 22
+A = 22x + 37
+x = 5, valor = 147 
+
+A = - 8x - 45
+A = - 6x - 7
+x = -19, valor = 107 
+
+A = - 10x - 50
+A = - 9x - 32
+x = -18, valor = 130 
+
+A = x + 15
+A = - x + 49
+x = 17, valor = 32 
+
+A = - x + 47
+A = - 6x - 8
+x = -11, valor = 58 
+
+A = 2x + 11
+A = - 3x + 46
+x = 7, valor = 25 
+
+A = 39x - 6
+A = 44x - 11
+x = 1, valor = 33 
+
+A = 11x + 35
+A = 8x + 50
+x = 5, valor = 90 
+
+A = 11x + 25
+A = 15x - 19
+x = 11, valor = 146 
+
+A = 11x - 37
+A = 8x + 17
+x = 18, valor = 161 
+
+A = - 5x - 48
+A = - 4x - 33
+x = -15, valor = 27 
+
+A = - 14x - 46
+A = - 6x + 18
+x = -8, valor = 66 
+
+A = 29x + 37
+A = 49x - 43
+x = 4, valor = 153 
+
+A = 9x - 1
+A = 4x + 24
+x = 5, valor = 44 
+
+A = 15x - 10
+A = 18x - 34
+x = 8, valor = 110 
+
+A = 35x - 40
+A = 37x - 48
+x = 4, valor = 100 
+
+A = 23x + 3
+A = 21x + 17
+x = 7, valor = 164 
+
+A = 20x + 36
+A = 29x - 27
+x = 7, valor = 176 
+
+A = 17x - 23
+A = 12x + 32
+x = 11, valor = 164 
+
+A = - 13x - 50
+A = - 11x - 26
+x = -12, valor = 106 
+
+A = x + 16
+A = - 4x - 9
+x = -5, valor = 11 
+
+A = - 9x - 24
+A = - 10x - 40
+x = -16, valor = 120 
+
+A = - 9x + 17
+A = - 7x + 43
+x = -13, valor = 134 
+
+A = 3x - 33
+A = x + 7
+x = 20, valor = 27 
+
+A = 8x + 29
+A = 9x + 16
+x = 13, valor = 133 
+
+A = 7x + 28
+A = 11x - 48
+x = 19, valor = 161 
+
+A = - 13x - 28
+A = - 9x + 24
+x = -13, valor = 141 
+
+A = - 10x + 25
+A = - 9x + 38
+x = -13, valor = 155 
+
+A = 5x - 19
+A = x + 25
+x = 11, valor = 36 
+
+A = 6x - 32
+A = 4x - 10
+x = 11, valor = 34 
+
+A = 25x + 40
+A = 36x - 15
+x = 5, valor = 165 
+
+A = - 13x + 25
+A = - 26x - 40
+x = -5, valor = 90 
+
+A = 18x + 15
+A = 30x - 45
+x = 5, valor = 105 
+
+A = - 7x + 50
+A = - 11x - 10
+x = -15, valor = 155 
+
+A = - x + 34
+A = - 3x + 20
+x = -7, valor = 41 
+
+A = 7x - 20
+A = 5x + 2
+x = 11, valor = 57 
+
+A = 2x - 5
+A = 3x - 21
+x = 16, valor = 27 
+
+A = - 11x - 33
+A = - 6x + 47
+x = -16, valor = 143 
+
+A = 12x - 18
+A = 13x - 31
+x = 13, valor = 138 
+
+A = 44x + 21
+A = 47x + 15
+x = 2, valor = 109 
+
+A = 4x + 50
+A = 13x - 4
+x = 6, valor = 74 
+
+A = 2x + 10
+A = x + 21
+x = 11, valor = 32 
+
+A = 7x + 38
+A = 14x - 32
+x = 10, valor = 108 
+
+A = - 11x - 43
+A = - 9x - 11
+x = -16, valor = 133 
+
+A = - 8x - 8
+A = - 13x - 38
+x = -6, valor = 40 
+
+A = 28x + 43
+A = 43x + 28
+x = 1, valor = 71 
+
+A = - 14x + 29
+A = - 15x + 19
+x = -10, valor = 169 
+
+A = - 21x - 3
+A = - 14x + 46
+x = -7, valor = 144 
+
+A = 11x + 39
+A = 26x + 9
+x = 2, valor = 61 
+
+A = - 3x - 15
+A = - x + 5
+x = -10, valor = 15 
+
+A = - 2x + 47
+A = - 4x + 27
+x = -10, valor = 67 
+
+A = 11x - 46
+A = 6x + 49
+x = 19, valor = 163 
+
+A = x + 31
+A = 2x + 40
+x = -9, valor = 22 
+
+A = 5x - 49
+A = - 3x + 47
+x = 12, valor = 11 
+
+A = 6x + 50
+A = 9x + 2
+x = 16, valor = 146 
+
+A = - 4x + 6
+A = - 5x - 14
+x = -20, valor = 86 
+
+A = - 48x - 6
+A = - 30x + 48
+x = -3, valor = 138 
+
+A = 6x + 24
+A = 2x + 44
+x = 5, valor = 54 
+
+A = x + 49
+A = 2x + 35
+x = 14, valor = 63 
+
+A = 34x + 30
+A = 27x + 44
+x = 2, valor = 98 
+
+A = 24x - 37
+A = 13x + 40
+x = 7, valor = 131 
+
+A = - 7x + 46
+A = - 17x - 14
+x = -6, valor = 88 
+
+A = - 10x + 25
+A = - 11x + 17
+x = -8, valor = 105 
+
+A = 9x + 19
+A = 8x + 34
+x = 15, valor = 154 
+
+A = - 12x - 16
+A = - 13x - 31
+x = -15, valor = 164 
+
+A = 8x - 24
+A = 6x + 8
+x = 16, valor = 104 
+
+A = - 4x - 34
+A = - 5x - 50
+x = -16, valor = 30 
+
+A = - 17x - 36
+A = - 6x + 41
+x = -7, valor = 83 
+
+A = 39x + 41
+A = 41x + 39
+x = 1, valor = 80 
+
+A = - 13x - 26
+A = - 9x - 6
+x = -5, valor = 39 
+
+A = 37x
+A = 26x + 33
+x = 3, valor = 111 
+
+A = - 4x + 46
+A = - 5x + 28
+x = -18, valor = 118 
+
+A = - 15x + 18
+A = - 13x + 34
+x = -8, valor = 138 
+
+A = - 48x + 24
+A = - 44x + 36
+x = -3, valor = 168 
+
+A = 44x + 32
+A = 39x + 47
+x = 3, valor = 164 
+
+A = 45x + 42
+A = 42x + 45
+x = 1, valor = 87 
+
+A = - 19x - 19
+A = - 26x - 47
+x = -4, valor = 57 
+
+A = - x + 17
+A = - 3x - 19
+x = -18, valor = 35 
+
+A = - x - 3
+A = - 2x - 22
+x = -19, valor = 16 
+
+A = 6x - 16
+A = 5x + 4
+x = 20, valor = 104 
+
+A = 8x - 7
+A = 5x + 32
+x = 13, valor = 97 
+
+A = 7x - 29
+A = 3x + 47
+x = 19, valor = 104 
+
+A = - x + 27
+A = 4x - 8
+x = 7, valor = 20 
+
+A = 13x + 24
+A = 22x - 48
+x = 8, valor = 128 
+
+A = x + 23
+A = 7x - 13
+x = 6, valor = 29 
+
+A = - 9x - 3
+A = - 13x - 35
+x = -8, valor = 69 
+
+A = 8x + 33
+A = 23x - 12
+x = 3, valor = 57 
+
+A = 46x - 8
+A = 38x + 24
+x = 4, valor = 176 
+
+A = 4x + 11
+A = 19x - 49
+x = 4, valor = 27 
+
+A = 16x - 38
+A = - 6x + 50
+x = 4, valor = 26 
+
+A = 7x - 49
+A = 6x - 35
+x = 14, valor = 49 
+
+A = 9x - 6
+A = 10x - 24
+x = 18, valor = 156 
+
+A = - 2x + 28
+A = - 4x
+x = -14, valor = 56 
+
+A = 6x - 30
+A = 7x - 44
+x = 14, valor = 54 
+
+A = 8x + 24
+A = 7x + 36
+x = 12, valor = 120 
+
+A = 14x + 11
+A = 18x - 25
+x = 9, valor = 137 
+
+A = - 2x + 24
+A = - 12x - 46
+x = -7, valor = 38 
+
+A = 6x + 36
+A = 7x + 16
+x = 20, valor = 156 
+
+A = 12x + 31
+A = 25x + 18
+x = 1, valor = 43 
+
+A = - 6x + 40
+A = - 23x - 28
+x = -4, valor = 64 
+
+A = - 9x - 8
+A = - 10x - 19
+x = -11, valor = 91 
+
+A = - 11x - 40
+A = - 7x + 36
+x = -19, valor = 169 
+
+A = 12x - 24
+A = 8x + 32
+x = 14, valor = 144 
+
+A = 21x + 23
+A = 31x - 37
+x = 6, valor = 149 
+
+A = 17x - 33
+A = 11x + 9
+x = 7, valor = 86 
+
+A = - 3x - 17
+A = - 4x - 37
+x = -20, valor = 43 
+
+A = 19x - 42
+A = 13x + 18
+x = 10, valor = 148 
+
+A = 2x - 8
+A = x + 12
+x = 20, valor = 32 
+
+A = - 3x - 17
+A = - 4x - 36
+x = -19, valor = 40 
+
+A = 6x + 34
+A = 8x - 4
+x = 19, valor = 148 
+
+A = 3x + 5
+A = 6x - 43
+x = 16, valor = 53 
+
+A = - 20x + 38
+A = - 23x + 17
+x = -7, valor = 178 
+
+A = - 9x + 18
+A = - 10x + 3
+x = -15, valor = 153 
+
+A = - 4x + 26
+A = - 2x + 42
+x = -8, valor = 58 
+
+A = 6x - 11
+A = 2x + 45
+x = 14, valor = 73 
+
+A = 33x + 47
+A = 46x - 5
+x = 4, valor = 179 
+
+A = - 2x + 10
+A = - 3x - 9
+x = -19, valor = 48 
+
+A = - 3x - 25
+A = - x + 11
+x = -18, valor = 29 
+
+A = - x + 8
+A = - 2x - 5
+x = -13, valor = 21 
+
+A = 22x + 20
+A = 30x - 36
+x = 7, valor = 174 
+
+A = - 6x + 22
+A = - 9x - 8
+x = -10, valor = 82 
+
+A = - 13x - 45
+A = - 8x + 35
+x = -16, valor = 163 
+
+A = - 8x + 9
+A = - 6x + 25
+x = -8, valor = 73 
+
+A = 22x - 30
+A = 13x + 42
+x = 8, valor = 146 
+
+A = - 2x + 41
+A = - 4x + 9
+x = -16, valor = 73 
+
+A = 7x + 3
+A = 3x + 39
+x = 9, valor = 66 
+
+A = - 2x
+A = - x + 15
+x = -15, valor = 30 
+
+A = - 6x + 28
+A = - 8x - 4
+x = -16, valor = 124 
+
+A = - 18x + 6
+A = - 13x + 11
+x = -1, valor = 24 
+
+A = 20x - 36
+A = x + 21
+x = 3, valor = 24 
+
+A = - 7x + 40
+A = - 9x + 28
+x = -6, valor = 82 
+
+A = 5x - 29
+A = 3x + 11
+x = 20, valor = 71 
+
+A = 38x + 42
+A = 42x + 30
+x = 3, valor = 156 
+
+A = 3x - 7
+A = - 2x + 48
+x = 11, valor = 26 
+
+A = 15x + 43
+A = 25x - 27
+x = 7, valor = 148 
+
+A = - 2x + 1
+A = - 7x - 44
+x = -9, valor = 19 
+
+A = - 6x - 16
+A = - 5x + 3
+x = -19, valor = 98 
+
+A = 9x + 25
+A = 13x - 39
+x = 16, valor = 169 
+
+A = 38x - 8
+A = 21x + 26
+x = 2, valor = 68 
+
+A = 6x - 42
+A = 4x - 4
+x = 19, valor = 72 
+
+A = 5x + 41
+A = 15x - 29
+x = 7, valor = 76 
+
+A = 23x + 38
+A = 43x + 18
+x = 1, valor = 61 
+
+A = - 8x + 7
+A = - 9x - 11
+x = -18, valor = 151 
+
+A = 17x - 27
+A = 15x - 11
+x = 8, valor = 109 
+
+A = 9x - 7
+A = 8x + 2
+x = 9, valor = 74 
+
+A = 4x - 28
+A = - x + 27
+x = 11, valor = 16 
+
+A = - 7x + 19
+A = - 4x + 49
+x = -10, valor = 89 
+
+A = - 8x - 46
+A = - 6x - 14
+x = -16, valor = 82 
+
+A = 23x - 32
+A = 20x - 8
+x = 8, valor = 152 
+
+A = - 41x - 4
+A = - 37x + 12
+x = -4, valor = 160 
+
+A = - 4x + 5
+A = - 2x + 19
+x = -7, valor = 33 
+
+A = - 7x + 39
+A = - 13x - 33
+x = -12, valor = 123 
+
+A = - 37x + 47
+A = - 44x + 33
+x = -2, valor = 121 
+
+A = - x + 32
+A = x - 4
+x = 18, valor = 14 
+
+A = 33x + 15
+A = 34x + 10
+x = 5, valor = 180 
+
+A = - 37x - 1
+A = - 35x + 7
+x = -4, valor = 147 
+
+A = - 3x + 40
+A = - 5x + 22
+x = -9, valor = 67 
+
+A = 5x + 10
+A = 4x + 19
+x = 9, valor = 55 
+
+A = 12x - 18
+A = 11x - 8
+x = 10, valor = 102 
+
+A = - 10x + 13
+A = - 8x + 39
+x = -13, valor = 143 
+
+A = - 20x - 41
+A = - 15x - 1
+x = -8, valor = 119 
+
+A = 16x + 26
+A = 24x - 14
+x = 5, valor = 106 
+
+A = - 44x - 13
+A = - 42x - 5
+x = -4, valor = 163 
+
+A = - 9x - 50
+A = - 4x + 45
+x = -19, valor = 121 
+
+A = 6x + 10
+A = 22x - 38
+x = 3, valor = 28 
+
+A = - 18x + 11
+A = - 24x - 43
+x = -9, valor = 173 
+
+A = - 6x + 44
+A = - 10x - 12
+x = -14, valor = 128 
+
+A = - 48x + 48
+A = - 49x + 47
+x = -1, valor = 96 
+
+A = - 41x - 9
+A = - 48x - 37
+x = -4, valor = 155 
+
+A = 9x - 36
+A = 5x + 24
+x = 15, valor = 99 
+
+A = 6x + 10
+A = 7x - 7
+x = 17, valor = 112 
+
+A = 34x - 1
+A = 33x + 1
+x = 2, valor = 67 
+
+A = 7x - 23
+A = x + 13
+x = 6, valor = 19 
+
+A = 6x + 11
+A = 5x + 31
+x = 20, valor = 131 
+
+A = - 7x + 31
+A = - 16x - 23
+x = -6, valor = 73 
+
+A = 2x - 4
+A = 4x - 44
+x = 20, valor = 36 
+
+A = - 3x + 23
+A = - 6x - 7
+x = -10, valor = 53 
+
+A = - 17x - 24
+A = - 13x + 4
+x = -7, valor = 95 
+
+A = - 27x - 45
+A = - 17x + 35
+x = -8, valor = 171 
+
+A = 12x - 20
+A = 11x - 4
+x = 16, valor = 172 
+
+A = 3x + 49
+A = 4x + 33
+x = 16, valor = 97 
+
+A = - 18x + 2
+A = - 22x - 26
+x = -7, valor = 128 
+
+A = 6x + 11
+A = 8x - 15
+x = 13, valor = 89 
+
+A = 22x - 8
+A = 19x + 10
+x = 6, valor = 124 
+
+A = 15x - 8
+A = 17x - 32
+x = 12, valor = 172 
+
+A = 18x - 25
+A = 13x + 25
+x = 10, valor = 155 
+
+A = - 2x + 21
+A = - 8x - 39
+x = -10, valor = 41 
+
+A = 8x + 50
+A = - 22x + 20
+x = -1, valor = 42 
+
+A = - 4x + 45
+A = 10x - 39
+x = 6, valor = 21 
+
+A = 2x + 28
+A = 6x - 16
+x = 11, valor = 50 
+
+A = - 2x + 48
+A = - 3x + 34
+x = -14, valor = 76 
+
+A = 3x - 11
+A = 7x - 43
+x = 8, valor = 13 
+
+A = - 2x + 22
+A = - 26x - 26
+x = -2, valor = 26 
+
+A = 2x + 22
+A = 10x - 50
+x = 9, valor = 40 
+
+A = - 6x + 31
+A = - 8x + 7
+x = -12, valor = 103 
+
+A = x + 18
+A = - 4x + 38
+x = 4, valor = 22 
+
+A = 8x - 39
+A = 6x - 7
+x = 16, valor = 89 
+
+A = - 28x - 31
+A = 10x + 45
+x = -2, valor = 25 
+
+A = - 8x - 32
+A = - 7x - 15
+x = -17, valor = 104 
+
+A = - 7x + 37
+A = - 2x + 22
+x = 3, valor = 16 
+
+A = - 18x - 48
+A = - 16x - 26
+x = -11, valor = 150 
+
+A = 6x + 48
+A = 12x - 48
+x = 16, valor = 144 
+
+A = - 6x - 33
+A = - 5x - 24
+x = -9, valor = 21 
+
+A = - 12x - 8
+A = - 11x + 3
+x = -11, valor = 124 
+
+A = - 6x + 16
+A = - 5x + 35
+x = -19, valor = 130 
+
+A = 16x + 46
+A = 25x - 17
+x = 7, valor = 158 
+
+A = 24x - 45
+A = 13x + 32
+x = 7, valor = 123 
+
+A = 8x + 25
+A = 11x - 17
+x = 14, valor = 137 
+
+A = - 5x + 26
+A = - 7x - 8
+x = -17, valor = 111 
+
+A = 7x + 19
+A = 10x - 35
+x = 18, valor = 145 
+
+A = - 14x + 44
+A = 36x - 6
+x = 1, valor = 30 
+
+A = - 10x - 48
+A = - 5x + 12
+x = -12, valor = 72 
+
+A = 18x - 20
+A = 16x - 4
+x = 8, valor = 124 
+
+A = - 8x + 50
+A = - 13x - 25
+x = -15, valor = 170 
+
+A = 4x + 13
+A = 7x - 23
+x = 12, valor = 61 
+
+A = 4x - 28
+A = 3x - 17
+x = 11, valor = 16 
+
+A = - 43x - 46
+A = - 40x - 40
+x = -2, valor = 40 
+
+A = 18x - 42
+A = 2x + 22
+x = 4, valor = 30 
+
+A = 12x - 49
+A = 10x - 19
+x = 15, valor = 131 
+
+A = 2x - 18
+A = 3x - 38
+x = 20, valor = 22 
+
+A = 9x - 17
+A = 7x + 21
+x = 19, valor = 154 
+
+A = x + 34
+A = 2x + 45
+x = -11, valor = 23 
+
+A = 48x - 4
+A = 45x + 5
+x = 3, valor = 140 
+
+A = 5x - 6
+A = x + 46
+x = 13, valor = 59 
+
+A = 2x + 25
+A = 3x + 16
+x = 9, valor = 43 
+
+A = - 9x + 3
+A = - 11x - 33
+x = -18, valor = 165 
+
+A = - 15x - 6
+A = - 6x + 12
+x = -2, valor = 24 
+
+A = - 3x + 31
+A = - 13x - 49
+x = -8, valor = 55 
+
+A = 10x + 11
+A = 12x - 19
+x = 15, valor = 161 
+
+A = - x + 46
+A = - 13x - 38
+x = -7, valor = 53 
+
+A = x + 26
+A = 5x - 50
+x = 19, valor = 45 
+
+A = - 32x - 47
+A = - 31x - 41
+x = -6, valor = 145 
+
