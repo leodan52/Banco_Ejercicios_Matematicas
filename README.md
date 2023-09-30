@@ -4,12 +4,12 @@ Este banco recolecta listas de ejercicios de matemáticas generados aleatoriamen
 
 El banco posee las siguientes listas en formato TXT:
 * Aritmética:
-	* [Estadística](/Estadística/ejercicios.txt)
+	* [Estadística](/Aritmética/Estadística/ejercicios.txt)
 * Álgebra:
 	* [Ecuaciones lineales](/Álgebra/Ecuaciones_lineales/ecuaciones.txt)
 		* [Respuestas](/Álgebra/Ecuaciones_lineales/ecuaciones_respuestas.txt)
 	* [Desigualdades/Inecuaciones](/Álgebra/Desigualdades/desigualdades.txt)
-	* [Sistemas de ecuaciones 2$\times$2](/Álgebra/Sistemas_de_ecuaciones/sistemas_ec.txt)
+	* [Sistemas de ecuaciones 2×2](/Álgebra/Sistemas_de_ecuaciones/sistemas_ec.txt)
 
 * Geometría:
 	* Ángulos
@@ -22,7 +22,7 @@ Cada lista usa `'\n'` como secuencia de escape para salto de linea, además de t
 
 ### Estadística
 
-La lista [Estadística](/Estadística/ejercicios.txt) posee conjuntos ejemplos con 10 datos cada uno. Las condiciones que se imponen son las siguientes:
+La lista [Estadística](/Aritmética/Estadística/ejercicios.txt) posee conjuntos ejemplos con 10 datos cada uno. Las condiciones que se imponen son las siguientes:
 
 * El promedio, o medía aritmética, debe ser siempre un **número entero**,
 * los datos se limitan en el intervalo $[2,20]$.
