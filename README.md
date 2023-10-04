@@ -33,7 +33,9 @@ Próximamente se espera remplazar la lista con una mayor cantidad de ejercicios,
 ### Ecuaciones lineales
 
 Una ecuación de 1er orden, o ecuación lineal, puede escribirse de la forma
+
 $$ ax + b = cx + d$$
+
 con $a$, $b$, $c$ y $d$ los coeficientes de cada termino. Esta forma es la más general para la creación de ejercicios a niveles básicos.
 
 Considerando la forma expuesta anterior, las soluciones de las ecuaciones puede expresarse de la siguiente forma
